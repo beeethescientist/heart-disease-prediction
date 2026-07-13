@@ -87,20 +87,6 @@ The trained model was exported for deployment in a Python application.
 
 ---
 
-## 📂 Repository Structure
-
-```
-Heart_Disease_Project/
-│
-├── hearts.csv
-├── Heart_pres_app.py
-├── Best_heart_disease_model.pkl
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Build an interactive Streamlit web application
@@ -117,6 +103,6 @@ Heart_Disease_Project/
 
 Bachelor of Science Honours in Information Technology (Data Science)
 
-LinkedIn: *(add your link)*
+LinkedIn: *www.linkedin.com/in/mpho-bereng-313524120*
 
-GitHub: *(add your profile)*
+
